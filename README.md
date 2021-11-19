@@ -8,4 +8,4 @@ Rename host:
 sudo raspi-config
 
 dont forget to remove old in:
-nano /var/root/.ssh/known_host
+sudo nano /var/root/.ssh/known_hosts
